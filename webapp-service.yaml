@@ -11,7 +11,7 @@ spec:
   # The service become a network endpoint for wither other services
   # or maybe external users to connect to (eg browser)
   selector:
-    app: webapp
+    mylabelname: webapp
 
   ports:
     - name: http
