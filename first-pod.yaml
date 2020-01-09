@@ -1,7 +1,11 @@
+# File Path in My Personal GitHub: https://github.com/mbaig011/k8s-training
+
 apiVersion: v1
 kind: Pod
 metadata:
   name: webapp
+  labels:
+    mylabelname: webapp
 spec:
   containers:
   - name: webapp
