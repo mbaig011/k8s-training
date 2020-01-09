@@ -18,7 +18,7 @@ metadata:
   name: webapp-release-0-5
   labels:
     app: webapp
-    release: "0-5"
+    release: 0-5
 spec:
   containers:
   - name: webapp
