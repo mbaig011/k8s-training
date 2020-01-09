@@ -1,6 +1,5 @@
 
 # File Path in My Personal GitHub: https://github.com/mbaig011/k8s-training
-
 apiVersion: v1
 kind: Service
 metadata:
